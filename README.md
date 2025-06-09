@@ -5,7 +5,7 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 <br />🔶The tool was fully rewritten to C++. If you already have a license key, please request an update
 <br />🔹Small native executable without dependencies
 <br />🔹No Microsoft Visual C++ requiered
-<br />🔹Client works on Windows 7 and higher (32 and 64 bit)
+<br />🔹Client works on Windows 7 and higher (both x86 and x64 systems)
 <br />🔹Auto StartUp
 <br />🔹Anti doble-launch
 <br />🔹AutoStealer
