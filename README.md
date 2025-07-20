@@ -46,19 +46,21 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/ce82dfd2-0c81-49db-be03-fa803627833e)
+<img width="1140" height="1019" alt="image" src="https://github.com/user-attachments/assets/60e52403-5b77-4c67-b4e5-38ca995bbfbf" />
 ![image](https://github.com/user-attachments/assets/8e926d99-7143-45e8-944d-285e2f7e55ad)
 
 ### Command list
-![image](https://github.com/user-attachments/assets/a306c051-16af-4d1c-9a68-433696de844d)
+<img width="794" height="925" alt="image" src="https://github.com/user-attachments/assets/0ed5a8ac-8b2a-46da-8a48-d4705d1cc6bf" />
 ![image](https://github.com/user-attachments/assets/b5094910-f9f3-4948-b63f-637f34b32008)
 
 ### Other ScreenShots
-![image](https://github.com/user-attachments/assets/f0838057-a05c-40c1-b1dc-4fba0b98a42f)
+<img width="792" height="917" alt="image" src="https://github.com/user-attachments/assets/429682c8-0f8d-426a-98c7-78a470b1d5e3" />
+
+<img width="797" height="920" alt="image" src="https://github.com/user-attachments/assets/e78cbe6f-4e9f-47a7-a1c1-24385c995913" />
 
 ![image](https://github.com/user-attachments/assets/e56a0715-b540-456f-a3f0-451f334eb745)
 
-![image](https://github.com/user-attachments/assets/1660bf69-93d8-463a-9e85-3c72ab1e99e0)
+<img width="771" height="914" alt="image" src="https://github.com/user-attachments/assets/09e9f45d-64b7-4eba-a62d-500c66121101" />
 
 ![image](https://github.com/user-attachments/assets/afa1b740-83bd-4061-976a-f2d47090e62e)
 
