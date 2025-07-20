@@ -47,11 +47,12 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 ## Screenshots
 ### Builder
 <img width="1140" height="1019" alt="image" src="https://github.com/user-attachments/assets/60e52403-5b77-4c67-b4e5-38ca995bbfbf" />
-![image](https://github.com/user-attachments/assets/8e926d99-7143-45e8-944d-285e2f7e55ad)
+
+<img width="1051" height="943" alt="image" src="https://github.com/user-attachments/assets/63b38378-04c9-4d92-91b7-04358c6f5ab7" />
 
 ### Command list
 <img width="794" height="925" alt="image" src="https://github.com/user-attachments/assets/0ed5a8ac-8b2a-46da-8a48-d4705d1cc6bf" />
-![image](https://github.com/user-attachments/assets/b5094910-f9f3-4948-b63f-637f34b32008)
+<img width="799" height="920" alt="image" src="https://github.com/user-attachments/assets/485aeccd-4ed7-4ad6-86b1-41749774763d" />
 
 ### Other ScreenShots
 <img width="792" height="917" alt="image" src="https://github.com/user-attachments/assets/429682c8-0f8d-426a-98c7-78a470b1d5e3" />
