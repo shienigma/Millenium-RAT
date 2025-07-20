@@ -1,8 +1,8 @@
-# Millenium RAT (RAT + stealer + keylogger), version 4.0
+# Millenium RAT (RAT + stealer + keylogger), version 4.1
 An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 years of history, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
 ## Features
 <br />⭐️ Common: 
-<br />🔶The tool was fully rewritten to C++. If you already have a license key, please request an update
+<br />🔶NEW: Fast Access Buttons (optional, can be enabled from the Advanced menu)
 <br />🔹Small native executable without dependencies
 <br />🔹No Microsoft Visual C++ requiered
 <br />🔹Client works on Windows 7 and higher (both x86 and x64 systems)
@@ -18,6 +18,7 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 <br />🔹Startup/Request delay adjustment
 <br />
 <br />⭐️ Options:
+<br />🔶NEW: Microphone capture
 <br />🔶Remote Powershell/CMD command execution
 <br />🔶Computer info grabbing (CPU, GPU, RAM, Country, city, IP, Mac Address etc)
 <br />🔶Discord token grabbing (from discord client and all the main browsers)
