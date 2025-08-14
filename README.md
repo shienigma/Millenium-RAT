@@ -37,7 +37,6 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 <br />🔶SendKeyPress feature
 <br />🔶Blue Screen of Death
 <br />🔶Bot gifting
-<br />🔶CMD command executing
 <br />🔶Self-unistalling
 <br />🔶Files&Folders: copy, delete, download, upload, list etc
 <br />🔶System shutdown/restart/logoff etc
